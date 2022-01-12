@@ -1,0 +1,7 @@
+[submodule "Detours"]
+	path = ext/win/Detours
+	url = https://github.com/microsoft/Detours.git
+[submodule "sqlite"]
+	path = ext/sqlite
+	url = https://github.com/sqlite/sqlite.git
+	branch = branch-3.37
